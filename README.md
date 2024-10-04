@@ -1,3 +1,3 @@
 # First-repo
 This is my first repository.
-Author is Prince from Hansraj College.
+Author - Prince from Hansraj College.
